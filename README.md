@@ -1,8 +1,5 @@
-# Projeto-Calculadora
- <h1>Meu primeio projeto utilizando pogramação orientada a objeto</h1>
- 
- <p></p>
- 
- 
+# Primeiro Projeto orientado a objeto
 
-<a href=“#“>A</a>
+ Esse projeto foi uma calculadora que eu fiz duranto o curso de JavaScript da <a href=“#“>Hcode</a> 
+ como um mini projeto para treinar minhas habilidades em javaScript
+ 
