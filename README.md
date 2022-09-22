@@ -1,5 +1,5 @@
-# Primeiro Projeto orientado a objeto
+# Projeto Calculadora
 
-Foi meu primeiro projeto em javascript que realmente desafiou minhas habilidades como programador iniciante.
+Um projeto simples para treinar minha habilidades.
  
 Link do projeto: <https://huanrluchetti.github.io/Projeto-Calculadora/calculadora-hcode/>
